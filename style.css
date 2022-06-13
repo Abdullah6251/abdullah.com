@@ -91,7 +91,7 @@
 
 #main-header{
     text-align: center;
-    background-image:linear-gradient( rgba(0, 0, 0, 0.575), rgba(0, 0, 0, 0.692)),  url("/image/website2.jpg");
+    background-image:linear-gradient( rgba(0, 0, 0, 0.575), rgba(0, 0, 0, 0.692)),  url("/image/website2.JPG");
     height: 90vh;
     background-repeat: no-repeat;
     background-size: cover;
